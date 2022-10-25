@@ -12,7 +12,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lixuewei009&show_icons=true&theme=dark&count_private=true)
 
 
 
